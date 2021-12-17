@@ -1,0 +1,14 @@
+gym
+matplotlib
+networkx
+numpy
+scipy
+torch
+tensorboard
+tensorflow
+ray
+pandas
+tabulate
+dm-tree
+opencv-python
+lz4

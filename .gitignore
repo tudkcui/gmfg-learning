@@ -1,0 +1,8 @@
+.idea/
+venv/
+*.pyc
+*.DS_Store
+/experiments/results/
+/results/
+/experiments/figures/
+/figures/
